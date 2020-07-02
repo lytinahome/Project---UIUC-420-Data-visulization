@@ -1,4 +1,4 @@
-The repo includes the course project for CS420 data visualization
+The repo includes the course project for CS498 data visualization
 
 1, the COVID-19 dashboard in Tableau 
 
